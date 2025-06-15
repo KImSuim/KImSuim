@@ -3,21 +3,21 @@
 # Team_Project
 
 - [**TeamSpotify**](https://github.com/Ori0li/TeamSpotify)
-- [**Studying Timer**](https://github.com/asom0160/team_portpolio)
-- [**Pokemon**](https://github.com/asom0160/pokemon_JS_TeamProject)
+<!-- - [**Studying Timer**](https://github.com/asom0160/team_portpolio)
+- [**Pokemon**](https://github.com/asom0160/pokemon_JS_TeamProject) -->
 - [**BC-VITA**](https://github.com/BC-VITA)
 - [**z-v-project**](https://github.com/WAT-Bast/z-v-project)
-- [**BCU_mentos**](https://github.com/KImSuim/BCU_mentos)
-- [**BCU_Major_Website**](https://github.com/KImSuim/BCU_Major_Website)
+<!-- - [**BCU_mentos**](https://github.com/KImSuim/BCU_mentos)
+- [**BCU_Major_Website**](https://github.com/KImSuim/BCU_Major_Website) -->
 
   <br/>
 
 # Side_Projects
 
-- [**indiaPortfolio**](https://github.com/KImSuim/indiaPortfolio)
+<!-- - [**indiaPortfolio**](https://github.com/KImSuim/indiaPortfolio) -->
 - [**kokoa-clone**](https://github.com/KImSuim/kokoa-clone)
 - [**react_todolist**](https://github.com/KImSuim/react_todolist)
-- [**GoogleCloneCoding**](https://github.com/KImSuim/GoogleCloneCoding)
+<!-- - [**GoogleCloneCoding**](https://github.com/KImSuim/GoogleCloneCoding) -->
 
   <br/>
   <br>
