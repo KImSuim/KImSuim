@@ -3,8 +3,8 @@
 # Team_Project
 
 - [**TeamSpotify**](https://github.com/Ori0li/TeamSpotify)
-<!-- - [**Studying Timer**](https://github.com/asom0160/team_portpolio)
-- [**Pokemon**](https://github.com/asom0160/pokemon_JS_TeamProject) -->
+<!-- - [**Studying Timer**](https://github.com/asom0160/team_portpolio) -->
+<!-- - [**Pokemon**](https://github.com/asom0160/pokemon_JS_TeamProject) -->
 - [**BC-VITA**](https://github.com/BC-VITA)
 - [**z-v-project**](https://github.com/WAT-Bast/z-v-project)
 <!-- - [**BCU_mentos**](https://github.com/KImSuim/BCU_mentos)
@@ -21,7 +21,8 @@
 
   <br/>
   <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuim&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuim&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800)
+
 
 <br>
 <br>
