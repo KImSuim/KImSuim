@@ -21,7 +21,8 @@
 
   <br/>
   <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSuim&show_icons=true&theme=dracula&count_private=true)
+
 <br>
 <br>
 <br>
