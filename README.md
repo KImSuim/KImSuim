@@ -2,27 +2,29 @@
 
 # Team_Project
 
-- [**TeamSpotify**](https://github.com/Ori0li/TeamSpotify)
+- [**TeamSpotify**](https://github.com/Ori0li/TeamSpotify)  👉 [배포 사이트 바로가기](https://team-spotify-zeta.vercel.app/)
 
+- [**BC-VITA**](https://github.com/BC-VITA) : 졸업작품 (우수상 수상)
+- [**z_v-project**](https://github.com/WAT-Bast/z-v-project) : 2학년 마무리 프로젝트
+  
 <!-- - [**Studying Timer**](https://github.com/asom0160/team_portpolio) -->
 
 <!-- - [**Pokemon**](https://github.com/asom0160/pokemon_JS_TeamProject) -->
 
-- [**BC-VITA**](https://github.com/BC-VITA)
-- [**z-v-project**](https://github.com/WAT-Bast/z-v-project)
+<!-- - [**BCU_mentos**](https://github.com/KImSuim/BCU_mentos) -->
 
-<!-- - [**BCU_mentos**](https://github.com/KImSuim/BCU_mentos)
-
-- [**BCU_Major_Website**](https://github.com/KImSuim/BCU_Major_Website) -->
+<!-- - [**BCU_Major_Website**](https://github.com/KImSuim/BCU_Major_Website) -->
 
   <br/>
 
 # Side_Projects
 
-<!-- - [**indiaPortfolio**](https://github.com/KImSuim/indiaPortfolio) -->
+- [**SSU_PotoPorio**](https://github.com/KImSuim/2025_SSU_PotoPorio_frontend) 👉 [배포 사이트 바로가기](https://2025-ssu-poto-porio-frontend.vercel.app/)
+- [**Kokoa_Clone**](https://github.com/KImSuim/kokoa-clone) : 카카오톡 클론코딩
+- [**React_Todolist**](https://github.com/KImSuim/react_todolist)
+<!-- 👉 **[배포 사이트 바로가기](https://team-spotify-zeta.vercel.app/)** -->
 
-- [**kokoa-clone**](https://github.com/KImSuim/kokoa-clone)
-- [**react_todolist**](https://github.com/KImSuim/react_todolist)
+<!-- - [**indiaPortfolio**](https://github.com/KImSuim/indiaPortfolio) -->
 
 <!-- - [**GoogleCloneCoding**](https://github.com/KImSuim/GoogleCloneCoding) -->
 
@@ -35,7 +37,7 @@
 <br>
 <br>
 
-<!-- https://github.com/danmadeira/simple-icon-badges -->
+<!-- https://github.com/danmadeira/simple-icon-badges 아래 아이콘 사이트 -->
 
 <div align="center"> 
   
